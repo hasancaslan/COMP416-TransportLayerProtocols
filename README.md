@@ -1,2 +1,2 @@
-# Network Layer Analysis and DV Routing Simulator
-### COMP416: Computer Networks - Project 3
+# Transport Layer Protocols Comparison and Analysis with Wireshark
+### COMP416: Computer Networks - Project 2
